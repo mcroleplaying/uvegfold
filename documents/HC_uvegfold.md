@@ -61,25 +61,25 @@ A karakter szülőföldje és háttere együtt kihatással van a társadalmi st�
 
 | Háttér | Észak-Kherret | Dél-Kherret | Közép-Kherret | Hegyvidék | Erdőség | Tengerpart | Szigetvilág | Nyugati Part |
 | ------ | ------------- | ----------- | ------------- | --------- | ------- | ---------- | ----------- | ------------ |
-Acolyte | | | | | | | | |
+Acolyte | 1 ally | | | | | | | |
 Charlatan | | | | | | | | |
-City Watch / Investigator | | | | | | | | |
-Cloistered Scholar | | | | | | | | |
+City Watch / Investigator | | | 1 ally | | | | | |
+Cloistered Scholar | 1 ally, 1 rival | | | | | | | |
 Criminal | | | | | | | | |
 Entertainer | | | | | | | | |
-Faction Agent | | | | | | | | |
+Faction Agent | 1 ally (Egység) | 1 ally (Szekér) | | | | 1 ally (Fátyol) | | |
 Folk Hero | | | | | | | | |
-Guild Artisan | | | | | | | | |
+Guild Artisan | | 1 ally | | | | | | |
 Hermit | | | | | | | | |
 Inheritor | | | | | | | | |
 Mercenary Veteran | | | | | | | | |
-Noble | | | | | | | | |
-Outlander | | | | | | | | |
-Pirate | | | | | | | | |
-Sage | | | | | | | | |
-Sailor | | | | | | | | |
-Soldier | | | | | | | | |
-Spy | | | | | | | | |
+Noble | 1 ally | | 1 rival | | | | | |
+Outlander | | | | | 1 ally | | | |
+Pirate | | | | | | 1 rival | 1 ally | |
+Sage | 1 ally, 1 rival | | | | | | | |
+Sailor | | | | | | 1 ally | 1 rival | |
+Soldier | | | | | | | | 1 ally |
+Spy | 1 rival | | | | | 1 ally | | |
 Urchin | | | | | | | | |
 
 ## 4. Település
@@ -92,25 +92,30 @@ Az egyes települések leírását lásd az Üvegföld WorldAnvilon.
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| | | |
+| | Folyóvég | Nagyváros |
+| | Északi horgásztelepek | Faluk |
+| | Napmező | Faluk |
 
 ### Dél-Kherret Települései
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| | | |
+| | Dendndhyr | Nagyváros |
+| | Dho'omb | Terület |
 
 ### Közép-Kherret Települései
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| | | |
+| | Ezüstrév | Nagyváros, Kikötőváros |
+| | Vintor dombok | Terület |
+| | Festwaald | Nagyváros, Kikötőváros |
 
 ### Hegyvidéki Települések
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| | | |
+| | Ércmoraj | Város |
 
 ### Erdei Települések
 
@@ -128,7 +133,9 @@ Az egyes települések leírását lásd az Üvegföld WorldAnvilon.
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| | | |
+| | Arismorta | Börtönsziget |
+| | Glasthynn | Tündék szigete |
+| | Wandaeg | Tündék szigete |
 
 ### Települések a Nyugati Parton
 
