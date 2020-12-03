@@ -1,4 +1,4 @@
-const MDLib = require('../../vpeter1119/md-lib');
+const MDLib = require('@petervertesi/md-lib');
 
 console.log(MDLib.version);
 MDLib.compile();
