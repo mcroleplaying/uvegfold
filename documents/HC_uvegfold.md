@@ -185,6 +185,7 @@ Dobj kétszer d100-zal, hogy az alábbi táblázat alapján meghatározd az éle
 ### A Családi kapcsolatok
 
 | d100 | Kapcsolat |
+| ---- | ------------ | --------------- |
 | 0-5 | Megölted az egyik családtagodat, akár véletlenül vagy szándékosan, és a közeli rokonai vérbosszút esküdtek. Kapsz egy rivalt. |
 | 6-10 | Az egyik családtagod egy súlyos sérülést okozott neked, azóta is hajtja a bűnbánat, és mindenben igyekszik segiteni neked. Kapsz egy allyt |
 | 11-15 | A családtagod nagyon szeret téged, gyerekkori barátok vagytok és bármikor szivesen segit, ha nem kell kockáztatnia az életét. Kapsz egy allyt |
