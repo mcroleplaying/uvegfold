@@ -92,67 +92,67 @@ Az egyes települések leírását lásd az Üvegföld WorldAnvilon.
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-33 | Folyóvég | Nagyváros |
-| 34-66 | Északi horgásztelepek | Falu közösségek |
-| 67-100 | Napmező | Falu közösségek |
+| 1-33 | Folyóvég | Város |
+| 34-66 | Északi horgásztelepek | Falu |
+| 67-100 | Napmező | Falu |
 
 ### Dél-Kherret Települései
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-33 | Dendndhyr | Nagyváros |
-| 34-66 | Dho'omb | Kikötőfalu |
-| 67-100 | Déli Kapu | Erőd |
+| 1-33 | Denndhyr | Város |
+| 34-66 | Dho'omb | Falu |
+| 67-100 | Déli Kapu | Város |
 
 ### Közép-Kherret Települései
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-33 | Ezüstrév | Nagyváros, Kikötőváros |
-| 34-66 | Vintor dombok | Falu közösségek |
-| 67-100 | Festwaald | Nagyváros, Kikötőváros |
+| 1-33 | Ezüstrév | Város |
+| 34-66 | Vintor dombok | Falu |
+| 67-100 | Festwaald | Város |
 
 ### Hegyvidéki Települések
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
 | 1-25 | Ércmoraj | Város |
-| 26-50 | Északi Kapu | Erőd |
-| 51-75 | Hegyaljai törzsek | Közösség |
-| 76-100 | Déli Kapu | Erőd |
+| 26-50 | Északi Kapu | Város |
+| 51-75 | Hegyaljai törzsek | Falu |
+| 76-100 | Déli Kapu | Város |
 
 ### Erdei Települések
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-33 | Druida tábor  | Közösség |
-| 34-66 | Bandita tábor | Közösség |
-| 67-100 | Favágó vagy szénégető tábor | Közösség |
+| 1-33 | Druida tábor  | Falu |
+| 34-66 | Bandita tábor | Falu |
+| 67-100 | Favágó vagy szénégető tábor | Falu |
 
 ### Tengerparti Települések
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-25 | Festwaald | Nagyváros, Kikötőváros |
-| 26-50 | Öbölvár | Nagyváros, Kikötőváros |
-| 51-75 | Ezüstrév | Nagyváros, Kikötőváros |
-| 76-100 | Dho'omb ˇ| Kikötőfalu |
+| 1-25 | Festwaald | Város |
+| 26-50 | Öbölvár | Város |
+| 51-75 | Ezüstrév | Város |
+| 76-100 | Dho'omb ˇ| Falu |
 
 ### Szigetvilági Települések
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-33 | Arismorta | Börtönsziget |
-| 34-66 | Glasthynn | Tündék szigete |
-| 67-100 | Wandaeg | Tündék szigete |
+| 1-33 | Arismorta | Város |
+| 34-66 | Glasthynn | Város |
+| 67-100 | Wandaeg | Falu |
 
 ### Települések a Nyugati Parton
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-33 | Homályvár | Erőd |
-| 34-66 | Sárkányvár | Erőd |
-| 67-100 | Agyarerőd | Erőd |
+| 1-33 | Homályvár | Város |
+| 34-66 | Sárkányvár | Város |
+| 67-100 | Agyarerőd | Város |
 
 ## Faj
 
@@ -185,19 +185,19 @@ Dobj kétszer d100-zal, hogy az alábbi táblázat alapján meghatározd az éle
 ### A Családi kapcsolatok
 
 | d100 | Kapcsolat |
-| ---- | ------------ | --------------- |
+| ---- | --------- |
 | 0-5 | Megölted az egyik családtagodat, akár véletlenül vagy szándékosan, és a közeli rokonai vérbosszút esküdtek. Kapsz egy rivalt. |
-| 6-10 | Az egyik családtagod egy súlyos sérülést okozott neked, azóta is hajtja a bűnbánat, és mindenben igyekszik segiteni neked. Kapsz egy allyt |
-| 11-15 | A családtagod nagyon szeret téged, gyerekkori barátok vagytok és bármikor szivesen segit, ha nem kell kockáztatnia az életét. Kapsz egy allyt |
-| 16-20 | Azt hitted, megölted az egyik családtagodat, akár véletlenül vagy szándékosan, és a családtag titkon bosszút forral ellened. Kapsz egy rivalt |
+| 6-10 | Az egyik családtagod egy súlyos sérülést okozott neked, azóta is hajtja a bűnbánat, és mindenben igyekszik segiteni neked. Kapsz egy allyt. |
+| 11-15 | A családtagod nagyon szeret téged, gyerekkori barátok vagytok és bármikor szivesen segit, ha nem kell kockáztatnia az életét. Kapsz egy allyt. |
+| 16-20 | Azt hitted, megölted az egyik családtagodat, akár véletlenül vagy szándékosan, és a családtag titkon bosszút forral ellened. Kapsz egy rivalt. |
 | 21-25 | A  testvéreid között mindig rivalizálás folyt a szülők kegyeiért. Ez a kapcsolat egészen felnőttkorig kitart. Kapsz egy rivalt. |
-| 26-30 | Az egyik családtagod számára egy komoly összeget adtál, amelynek a segitségével megváltotta az életét, és vissza szeretne fizetni. Kapsz egy allyt |
-| 31-35 | A családtagoddal gyakran mentetek el vedelni és azóta is szoros a kapcsolatotok. Kapsz egy allyt |
-| 36-40 | A gyerekkorotokban közösen tanultatok, és mindig vetekedtetek a nevelőtök elismeréséért. Kapsz egy rivalt |
-| 41-45 | A családtagod gyerekkorod óta pártfogolt téged, és bár befejezetlen a munkátok, szivesen vár téged vissza, hogy befejezhesd a tanulmányaidat. Kapsz egy allyt|
-| 46-50 | A gyerekkorodban beárultad a családtagod egyik titkát, ami miatt nagy szégyenbe került. Kapsz egy rivalt |
-| 51-55 | A családtagod vigyázott rád amikor a szüleid éppen nem voltak otthon. Azóta is saját gyerekeként tekint rád. Kapsz egy allyt |
-| 56-60 | A családtagod vigyázott rád, amikor serdülő korban voltál, és a sok kihágás megkeseritette a kapcsolatotokat. Kapsz egy rivalt |
+| 26-30 | Az egyik családtagod számára egy komoly összeget adtál, amelynek a segitségével megváltotta az életét, és vissza szeretne fizetni. Kapsz egy allyt. |
+| 31-35 | A családtagoddal gyakran mentetek el vedelni és azóta is szoros a kapcsolatotok. Kapsz egy allyt. |
+| 36-40 | A gyerekkorotokban közösen tanultatok, és mindig vetekedtetek a nevelőtök elismeréséért. Kapsz egy rivalt. |
+| 41-45 | A családtagod gyerekkorod óta pártfogolt téged és szivesen vár téged vissza, hogy befejezhesd a tanulmányaidat. Kapsz egy allyt. |
+| 46-50 | A gyerekkorodban beárultad a családtagod egyik titkát, ami miatt nagy szégyenbe került. Kapsz egy rivalt. |
+| 51-55 | A családtagod vigyázott rád amikor a szüleid éppen nem voltak otthon. Azóta is saját gyerekeként tekint rád. Kapsz egy allyt. |
+| 56-60 | A családtagod vigyázott rád, amikor serdülő korban voltál, és a sok kihágás megkeseritette a kapcsolatotokat. Kapsz egy rivalt. |
 | 61-65 | A családtagodat megvédted egyszer egy keménylegénytől, aki meg akarta lopni. Azóta is csodál téged. Kapsz egy allyt. |
 | 66-70 | Te meséltél a családtagodnak meséket amikor gyerek volt, azóta is jó emlékekkel viseltet irántad és gyakran idéz a mesékből. Kapsz egy allyt. |
 | 71-75 | A családtagoddal együtt mindketten egy lány felé tápláltatok gyengéd érzelmeket, és a lány kegyeiért való versengés rivalizálásba ment át. A családtagod elvette  a lányt, de fél attól, hogy egyszer visszatérsz. Kapsz egy rivalt. |
@@ -205,4 +205,4 @@ Dobj kétszer d100-zal, hogy az alábbi táblázat alapján meghatározd az éle
 | 81-85 | Te és a családtagod mindketten egy mágikus hatás alá kerültetek, igy amennyiben 1000 lábra vagytok egymástól, telepatikusan tudjátok észlelni egymást. Kapsz egy allyt. |
 | 86-90 | A családtagoddal közösen átéltetek egy traumát, legyen az valami betörés vagy csata, és azóta is mély barátság van köztetek. Kapsz egy allyt. |
 | 91-95 | A családtagod a barátod akar lenni és mindig segiteni szeretett volna, de mindig csak hátráltatott. Kapsz egy rivalt. |
-| 96-100 | A családtagod régen elutazott ismert indok nélkül, de elindulása előtt megigérte, hogy szükség esetén megtalál majd téged. Kapsz egy allyt |
+| 96-100 | A családtagod régen elutazott ismert indok nélkül, de elindulása előtt megigérte, hogy szükség esetén megtalál majd téged. Kapsz egy allyt. |
