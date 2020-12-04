@@ -1,9 +1,9 @@
-﻿title: Üvegföld Hősi Krónika
-version: 0.1.0
+﻿title: Kherret Hősi Krónika
+version: 0.2.0
 
 options:
   input: lib
-  output: documents/HeroicChronicle.md
+  output: documents/HeroicChronicle_Kherret.md
   doclevel: 2
 
 content:
@@ -12,8 +12,18 @@ content:
   - path: background.md
   - path: social-status.md
   - path: settlement.md
+    subsetions:
+      - path: settlements-north.md
+      - path: settlements-south.md
+      - path: settlements-central.md
+      - path: settlements-mountains.md
+      - path: settlements-forest.md
+      - path: settlements-shore.md
+      - path: settlements-archipelago.md
+      - path: settlements-west.md
   - path: race.md
   - path: family.md
     subsections:
       - path: family-size-village.md
       - path: family-size-city.md
+      - path: family-relationship.md
