@@ -1,0 +1,19 @@
+﻿title: Üvegföld Hősi Krónika
+version: 0.1.0
+
+options:
+  input: lib
+  output: documents/HeroicChronicle.md
+  doclevel: 2
+
+content:
+  - path: introduction.md
+  - path: home.md
+  - path: background.md
+  - path: social-status.md
+  - path: settlement.md
+  - path: race.md
+  - path: family.md
+    subsections:
+      - path: family-size-village.md
+      - path: family-size-city.md
