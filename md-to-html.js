@@ -8,7 +8,7 @@ function readMarkdown(filepath) {
     })
 }
 
-readMarkdown('documents/HeroicChronicle.md').then(contents => {
+readMarkdown('documents/HeroicChronicle_Kherret.md').then(contents => {
     let htmlContent = `<html><head><title>Kherret Heroic Chronicle</title><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"></head><body><div class="container">${marked(contents)}</div></body><script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script></html>`;
-    fs.writeFileSync('html/HeroicChronicle.html', htmlContent);
+    fs.writeFileSync('html/HeroicChronicle_Kherret.html', htmlContent);
 })

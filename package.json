@@ -20,8 +20,9 @@
     "url": "https://github.com/mcroleplaying/uvegfold/issues"
   },
   "homepage": "https://github.com/mcroleplaying/uvegfold#readme",
-  "dependencies": {
-    "@petervertesi/md-lib": "^0.1.4",
+  "dependencies": {},
+  "devDependencies": {
+    "@petervertesi/md-lib": "^0.2.0",
     "marked": "^1.2.5"
   }
 }

@@ -1,4 +1,4 @@
-﻿
+
 # Kherret Hősi Krónika
 
 Ez a dokumentum az [Explorer's Guide to Wildemount](https://www.dndbeyond.com/sources/egtw/character-options-subclasses#HeroicChronicle) Heroic Chronicle fejezete, valamint James Haeck kapcsolódó, Forgotten Realms-hoz kapcsolódó [cikkjei](https://www.dndbeyond.com/tag/heroic-chronicle) alapján készültek.
@@ -19,6 +19,7 @@ Dobj d100-zal és nézd meg az alábbi táblázatban, Kherret melyik vidékén s
 | 66–80 | Tengerpart |
 | 81–95 | Szigetvilág |
 | 96–100 | Nyugati Part |
+
 
 ## 2. Háttér
 
@@ -55,6 +56,7 @@ In addition to granting you items, gold, and proficiencies, your background give
 
 <a name="fn-2-4"><sup>4</sup></a> A Fekete Fátyol kémje.
 
+
 ## 3. Társadalmi Státusz
 
 A karakter szülőföldje és háttere együtt kihatással van a társadalmi státuszára: milyen szövetségesekre és ellenfelekre tett szert eddigi élete során?
@@ -82,12 +84,15 @@ Soldier | 1 ally | 1 rival | 1 rival  | 1 rival | 1 ally | 1 rival | 1 rival | 1
 Spy | 1 rival, 1 ally | 1 rival | 1 ally, 1 rival | - | - | 1 ally | - | 1 rival |
 Urchin | 1 rival, 1 ally | 1 ally | 1 ally | 1 ally | 1 ally | 1 ally, 1 rival | 1 rival | - |
 
+
 ## 4. Település
 
 A szülőföld és társadalmi státusz meghatározása után ideje eldönteni, hogy hol nőtt fel a karakter. Utazó életmódot folytató karakternél háromszor is dobhatsz a táblán!
 
-Az egyes települések leírását lásd az Üvegföld WorldAnvilon.
+Az egyes települések leírását lásd az [Üvegföld WorldAnvil](https://www.worldanvil.com/w/Uvegfold-ottaviani) oldalon.
 
+
+﻿
 ### Észak-Kherret Települései
 
 | d100 | Település | Típus |
@@ -96,6 +101,8 @@ Az egyes települések leírását lásd az Üvegföld WorldAnvilon.
 | 34-66 | Északi horgásztelepek | Falu |
 | 67-100 | Napmező | Falu |
 
+
+﻿
 ### Dél-Kherret Települései
 
 | d100 | Település | Típus |
@@ -104,6 +111,8 @@ Az egyes települések leírását lásd az Üvegföld WorldAnvilon.
 | 34-66 | Dho'omb | Falu |
 | 67-100 | Déli Kapu | Város |
 
+
+﻿
 ### Közép-Kherret Települései
 
 | d100 | Település | Típus |
@@ -112,6 +121,8 @@ Az egyes települések leírását lásd az Üvegföld WorldAnvilon.
 | 34-66 | Vintor dombok | Falu |
 | 67-100 | Festwaald | Város |
 
+
+﻿
 ### Hegyvidéki Települések
 
 | d100 | Település | Típus |
@@ -121,6 +132,8 @@ Az egyes települések leírását lásd az Üvegföld WorldAnvilon.
 | 51-75 | Hegyaljai törzsek | Falu |
 | 76-100 | Déli Kapu | Város |
 
+
+﻿
 ### Erdei Települések
 
 | d100 | Település | Típus |
@@ -129,6 +142,8 @@ Az egyes települések leírását lásd az Üvegföld WorldAnvilon.
 | 34-66 | Bandita tábor | Falu |
 | 67-100 | Favágó vagy szénégető tábor | Falu |
 
+
+﻿
 ### Tengerparti Települések
 
 | d100 | Település | Típus |
@@ -138,14 +153,18 @@ Az egyes települések leírását lásd az Üvegföld WorldAnvilon.
 | 51-75 | Ezüstrév | Város |
 | 76-100 | Dho'omb ˇ| Falu |
 
+
+﻿
 ### Szigetvilági Települések
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
 | 1-33 | Arismorta | Város |
-| 34-66 | Glasthynn | Város |
-| 67-100 | Wandaeg | Falu |
+| 34-66 | Glastrynn | Város |
+| 67-100 | Wandaeg | Város |
 
+
+﻿
 ### Települések a Nyugati Parton
 
 | d100 | Település | Típus |
@@ -154,15 +173,18 @@ Az egyes települések leírását lásd az Üvegföld WorldAnvilon.
 | 34-66 | Sárkányvár | Város |
 | 67-100 | Agyarerőd | Város |
 
+
 ## Faj
 
 Az egyes településeken a különböző fajok különböző arányban képviseltetik magukat. Ha szeretnéd véletlenszerűen meghatározni a karaktered faját, akkor nézd meg az adott település adatlapjánál szereplő százalékos adatokat és d100-zal dobd ki a fajodat!
+
 
 ## Család
 
 The size of your home settlement plays a part in the size of your family. Land and commodities are expensive in the cities, making it difficult for many people to afford a large family.
 
 Dobj kétszer d100-zal, hogy az alábbi táblázat alapján meghatározd az életben lévő szülők és testvérek számát!
+
 
 ### Család Méret (Falu)
 
@@ -173,6 +195,7 @@ Dobj kétszer d100-zal, hogy az alábbi táblázat alapján meghatározd az éle
 | 51–89 | 1 | 1d4 |
 | 90-100 | 0 | 0 |
 
+
 ### Család Méret (Város)
 
 | d100 | Szülők Száma | Testvérek Száma |
@@ -182,7 +205,9 @@ Dobj kétszer d100-zal, hogy az alábbi táblázat alapján meghatározd az éle
 | 61–80 | 1 | 1d4 |
 | 81-100 | 0 | 0 |
 
-### A Családi kapcsolatok
+
+﻿
+### Családi Kapcsolatok
 
 | d100 | Kapcsolat |
 | ---- | --------- |
@@ -206,3 +231,5 @@ Dobj kétszer d100-zal, hogy az alábbi táblázat alapján meghatározd az éle
 | 86-90 | A családtagoddal közösen átéltetek egy traumát, legyen az valami betörés vagy csata, és azóta is mély barátság van köztetek. Kapsz egy allyt. |
 | 91-95 | A családtagod a barátod akar lenni és mindig segiteni szeretett volna, de mindig csak hátráltatott. Kapsz egy rivalt. |
 | 96-100 | A családtagod régen elutazott ismert indok nélkül, de elindulása előtt megigérte, hogy szükség esetén megtalál majd téged. Kapsz egy allyt. |
+
+
