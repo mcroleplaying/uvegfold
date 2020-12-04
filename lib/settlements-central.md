@@ -1,7 +1,8 @@
-### Közép-Kherret Települései
+ï»¿
+### KÃ¶zÃ©p-Kherret TelepÃ¼lÃ©sei
 
-| d100 | Település | Típus |
+| d100 | TelepÃ¼lÃ©s | TÃ­pus |
 | ---- | --------- | ----- |
-| 1-33 | Ezüstrév | Város |
+| 1-33 | EzÃ¼strÃ©v | VÃ¡ros |
 | 34-66 | Vintor dombok | Falu |
-| 67-100 | Festwaald | Város |
+| 67-100 | Festwaald | VÃ¡ros |

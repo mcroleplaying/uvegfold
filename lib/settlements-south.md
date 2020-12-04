@@ -1,8 +1,9 @@
-### Dél-Kherret Települései
+ï»¿
+### DÃ©l-Kherret TelepÃ¼lÃ©sei
 
-| d100 | Település | Típus |
+| d100 | TelepÃ¼lÃ©s | TÃ­pus |
 | ---- | --------- | ----- |
 | ---- | --------- | ----- |
-| 1-33 | Denndhyr | Város |
+| 1-33 | Denndhyr | VÃ¡ros |
 | 34-66 | Dho'omb | Falu |
-| 67-100 | Déli Kapu | Város |
+| 67-100 | DÃ©li Kapu | VÃ¡ros |

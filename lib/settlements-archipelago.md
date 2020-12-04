@@ -1,7 +1,8 @@
-### Szigetvilági Települések
+ï»¿
+### SzigetvilÃ¡gi TelepÃ¼lÃ©sek
 
-| d100 | Település | Típus |
+| d100 | TelepÃ¼lÃ©s | TÃ­pus |
 | ---- | --------- | ----- |
-| 1-33 | Arismorta | Város |
-| 34-66 | Glastrynn | Város |
-| 67-100 | Wandaeg | Város |
+| 1-33 | Arismorta | VÃ¡ros |
+| 34-66 | Glastrynn | VÃ¡ros |
+| 67-100 | Wandaeg | VÃ¡ros |

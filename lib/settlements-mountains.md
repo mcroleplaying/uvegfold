@@ -1,8 +1,9 @@
-### Hegyvidéki Települések
+ï»¿
+### HegyvidÃ©ki TelepÃ¼lÃ©sek
 
-| d100 | Település | Típus |
+| d100 | TelepÃ¼lÃ©s | TÃ­pus |
 | ---- | --------- | ----- |
-| 1-25 | Ércmoraj | Város |
-| 26-50 | Északi Kapu | Város |
-| 51-75 | Hegyaljai törzsek | Falu |
-| 76-100 | Déli Kapu | Város |
+| 1-25 | Ã‰rcmoraj | VÃ¡ros |
+| 26-50 | Ã‰szaki Kapu | VÃ¡ros |
+| 51-75 | Hegyaljai tÃ¶rzsek | Falu |
+| 76-100 | DÃ©li Kapu | VÃ¡ros |

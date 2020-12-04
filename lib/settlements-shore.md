@@ -1,4 +1,5 @@
-﻿### Tengerparti Települések
+﻿
+### Tengerparti Települések
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |

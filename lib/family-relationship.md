@@ -1,4 +1,5 @@
-﻿### A Családi kapcsolatok
+﻿
+### Családi Kapcsolatok
 
 | d100 | Kapcsolat |
 | ---- | --------- |

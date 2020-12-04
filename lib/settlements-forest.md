@@ -1,4 +1,5 @@
-﻿### Erdei Települések
+﻿
+### Erdei Települések
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |

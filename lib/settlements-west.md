@@ -1,4 +1,5 @@
-﻿### Települések a Nyugati Parton
+﻿
+### Települések a Nyugati Parton
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |

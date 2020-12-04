@@ -1,4 +1,5 @@
-﻿### Észak-Kherret Települései
+﻿
+### Észak-Kherret Települései
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
