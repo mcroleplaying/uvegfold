@@ -97,29 +97,37 @@ Az egyes települések leírását lásd az [Üvegföld WorldAnvil](https://www.
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-33 | Folyóvég | Város |
-| 34-66 | Északi horgásztelepek | Falu |
-| 67-100 | Napmező | Falu |
-
+| 01-40 | Folyóvég | Város |
+| 41-60 | Tóváros | Város |
+| 61-80 | Finomtönköly | Falu |
+| 81-85 | Bron Mirad | Város |
+| 86-90 | Losenbruch | Falu |
+| 91-95 | Vadgázló | Falu |
+| 96-00 | Dérfenyves | Falu |
 
 ﻿
 ### Dél-Kherret Települései
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-33 | Denndhyr | Város |
-| 34-66 | Dho'omb | Falu |
-| 67-100 | Déli Kapu | Város |
-
+| 01-55 | Denndhyr | Város |
+| 56-65 | Déli Kapu | Város |
+| 66-70 | Do'omb | Falu|
+| 71-80 | Bakaruz | Falu |
+| 81-85 | Kopárvacs | Falu |
+| 86-95 | Sah Lumnaar | Város |
+| 96-00 | Uznahgaar | Falu |
 
 ﻿
 ### Közép-Kherret Települései
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-33 | Ezüstrév | Város |
-| 34-66 | Vintor dombok | Falu |
-| 67-100 | Festwaald | Város |
+| 01-45 | Ezüstrév | Város |
+| 46-75 | Festwaald | Város |
+| 76-85 | Felvindor | Falu |
+| 86-95 | Alvintor | Falu |
+| 95-00 | Balokszeg | Falu |
 
 
 ﻿
@@ -127,31 +135,39 @@ Az egyes települések leírását lásd az [Üvegföld WorldAnvil](https://www.
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-25 | Ércmoraj | Város |
-| 26-50 | Északi Kapu | Város |
-| 51-75 | Hegyaljai törzsek | Falu |
-| 76-100 | Déli Kapu | Város |
-
+| 01-35 | Ércmoraj | Város |
+| 36-65 | Pörölybérc | Város |
+| 66-80 | Északi Kapu | Falu |
+| 81-90 | Vaeatun | Falu |
+| 91-95 | Strun Tafir | Falu |
+| 96-00 | Mul Bahlok | Falu |
 
 ﻿
 ### Erdei Települések
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-33 | Druida tábor  | Falu |
-| 34-66 | Bandita tábor | Falu |
-| 67-100 | Favágó vagy szénégető tábor | Falu |
-
+| 01-15 | Arcalonn (Festwaaldi Erdő) | Város |
+| 16-45 | Gulblad | Város |
+| 46-55 | Bakaruz | Falu |
+| 56-60 | Dérfenyves | Falu |
+| 61-70 | Favágó telep (Festwaaldi Erdő) | Falu |
+| 71-85 | Favágó telep (Komorerdő) | Falu |
+| 86-95 | Szénégető tábor | Falu |
+| 96-00 | Komorvég | Falu |
 
 ﻿
 ### Tengerparti Települések
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-25 | Festwaald | Város |
-| 26-50 | Öbölvár | Város |
-| 51-75 | Ezüstrév | Város |
-| 76-100 | Dho'omb ˇ| Falu |
+| 01-30 | Öbölvár | Város |
+| 31-65 | Ezüstrév | Város |
+| 66-80 | Bannumtag | Város |
+| 81-85 | Groveston | Falu |
+| 86-90 | Graateck | Falu |
+| 91-95 | Morentau | Falu |
+| 96-00 | Dho'omb | Falu |
 
 
 ﻿
@@ -159,9 +175,14 @@ Az egyes települések leírását lásd az [Üvegföld WorldAnvil](https://www.
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-33 | Arismorta | Város |
-| 34-66 | Glastrynn | Város |
-| 67-100 | Wandaeg | Város |
+| 01-25 | Glastrynn | Város |
+| 26-50 | Wandaeg | Város |
+| 51-65 | Queresnor | Falu |
+| 66-77 | Naester | Falu |
+| 78-87 | Ardan | Falu |
+| 88-95 | Aewil | Falu |
+| 96-98 | Pajzs-sziget | Falu |
+| 99-00 | Arismorta | Falu |
 
 
 ﻿
@@ -169,9 +190,9 @@ Az egyes települések leírását lásd az [Üvegföld WorldAnvil](https://www.
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-33 | Homályvár | Város |
-| 34-66 | Sárkányvár | Város |
-| 67-100 | Agyarerőd | Város |
+| 01-50 | Homályvár | Város |
+| 51-75 | Sárkányvár | Falu |
+| 76-00 | Agyarerőd | Falu |
 
 
 ## Faj
