@@ -3,7 +3,9 @@
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-25 | Ércmoraj | Város |
-| 26-50 | Északi Kapu | Város |
-| 51-75 | Hegyaljai törzsek | Falu |
-| 76-100 | Déli Kapu | Város |
+| 01-35 | Ércmoraj | Város |
+| 36-65 | Pörölybérc | Város |
+| 66-80 | Északi Kapu | Falu |
+| 81-90 | Vaeatun | Falu |
+| 91-95 | Strun Tafir | Falu |
+| 96-00 | Mul Bahlok | Falu |
