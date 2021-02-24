@@ -3,6 +3,6 @@
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-33 | Homályvár | Város |
-| 34-66 | Sárkányvár | Város |
-| 67-100 | Agyarerőd | Város |
+| 01-50 | Homályvár | Város |
+| 51-75 | Sárkányvár | Falu |
+| 76-00 | Agyarerőd | Falu |

@@ -3,6 +3,10 @@
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-33 | Folyóvég | Város |
-| 34-66 | Északi horgásztelepek | Falu |
-| 67-100 | Napmező | Falu |
+| 01-40 | Folyóvég | Város |
+| 41-60 | Tóváros | Város |
+| 61-80 | Finomtönköly | Falu |
+| 81-85 | Bron Mirad | Város |
+| 86-90 | Losenbruch | Falu |
+| 91-95 | Vadgázló | Falu |
+| 96-00 | Dérfenyves | Falu |

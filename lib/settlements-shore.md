@@ -3,7 +3,10 @@
 
 | d100 | Település | Típus |
 | ---- | --------- | ----- |
-| 1-25 | Festwaald | Város |
-| 26-50 | Öbölvár | Város |
-| 51-75 | Ezüstrév | Város |
-| 76-100 | Dho'omb ˇ| Falu |
+| 01-30 | Öbölvár | Város |
+| 31-65 | Ezüstrév | Város |
+| 66-80 | Bannumtag | Város |
+| 81-85 | Groveston | Falu |
+| 86-90 | Graateck | Falu |
+| 91-95 | Morentau | Falu |
+| 96-00 | Dho'omb | Falu |
